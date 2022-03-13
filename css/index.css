@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+
+.index-corpo{
+  background-color: #0A1B2A;
+  margin: 10px
+}
+
+.index-titulo-principal{
+  color:white;
+  margin: 10px 0px;
+}
+
+.index-texto-do-corpo{
+  color:rgb(228, 228, 228);
+}
